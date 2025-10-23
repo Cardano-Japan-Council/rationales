@@ -22,7 +22,6 @@ Furthermore, the sheer number of changes combined with only brief summaries of t
 For example, there is no explanation for naming this version v2.3 despite it being the first constitutional amendment, nor for changing the preamble.  
 Unless proposals focus on specific issues, such as preamble changes or definition additions, the result will be a constitutional amendment that fails to sufficiently reflect the careful deliberation of DReps and Constitution Committee members.  
 Rather than such comprehensive amendments, proposing changes step by step, issue by issue, is more constructive.  
-
 (Article 3, Section 5 “Legible format”)  
 While the comparison document for changes highlights relevant sections with color coding, evaluators must still independently discern how the text has changed.  
 This cannot be considered a legible format.  
