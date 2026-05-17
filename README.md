@@ -18,5 +18,5 @@ Each rationale records the Council’s reasoning behind its constitutional deter
 
 ## Governance Action Constitutionality Rationales
 
-- English: [rationale_summary.md](./rationale_index.md)
-- 日本語: [rationale_summary.ja.md](./rationale_index.ja.md)
+- English: [rationale_index.md](./rationale_index.md)
+- 日本語: [rationale_index.ja.md](./rationale_index.ja.md)
