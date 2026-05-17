@@ -1,7 +1,7 @@
 # Rationales – Cardano Japan Council
 
 This repository contains the **governance rationales** of the **Cardano Japan Council (CC era)**.  
-Each rationale records the Council’s reasoning behind votes and governance actions.  
+Each rationale records the Council’s reasoning behind its constitutional determinations on governance actions.  
 
 ---
 
@@ -13,3 +13,10 @@ Each rationale records the Council’s reasoning behind votes and governance act
 
 - **CC era (Constitutional Committee):**  
   All new rationales will be maintained in this repository.  
+
+---
+
+## Governance Action Constitutionality Rationales
+
+- English: [rationale_summary.md](./rationale_summary.md)
+- 日本語: [rationale_summary.ja.md](./rationale_summary.ja.md)
