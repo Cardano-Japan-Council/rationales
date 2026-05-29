@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We consider this governance action to be unconstitutional.",
+    "rationaleStatement": "This proposal is a Treasury Withdrawal Governance Action to withdraw ₳1,680,000 from the Cardano Treasury for the project “Eternl: Path to Sustainability (2026-2027)” by Tastenkunst GmbH / Eternl. Regarding Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal adopts an immutable off-chain reference using IPFS. The proposal text includes an overview, rationale, budget, reimbursement structure, operational framework, FAQ, and grant history. Regarding Article 2, Section 7, Paragraph 1, this proposal aims to cover the 12-month operation, maintenance, and improvement of the Eternl wallet. It details the implementation period from August 2026 to July 2027, the budget breakdown, repayment conditions, conversion to stablecoins, and a sustainability model using the Pro plan. Regarding Article 2, Section 7, Paragraph 2, the proposal text includes a statement that Tastenkunst GmbH was a Treasury fund recipient in the 2025 budget process, as well as a reference to “Withdraw ₳583,000 for Eternl Maintenance administered by Intersect.” Regarding Article 2, Section 7, Paragraph 3, the requested amount for this proposal is ₳1,680,000, which falls within the 350M ADA Net Change Limit applicable to Epochs 613–713 at the time of submission. Additionally, this proposal is denominated in ADA. Regarding Article 2, Section 7, Paragraph 4, the proposal text includes a reference to “Audits: ₳16,800” as audit fees. Regarding Article 2, Section 7, Paragraph 5, it is stated that Tastenkunst GmbH is designated as the administrator. However, regarding Article 2, Section 7, Paragraph 6, upon verifying the stake address corresponding to the withdrawal credential for the Governance Action, we found that while there is no stake delegation, the voteDelegation is null, and we could not confirm a state corresponding to “must be delegated to the predefined abstain voting option.” Therefore, we determine that this proposal is unconstitutional.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "We recognize that the delegation status of the relevant address may be updated during the voting period. Should the relevant account be properly delegated to the predefined abstain voting option during the voting period, we are prepared to reconsider our constitutional assessment on this particular issue.",
+    "conclusion": "For the reasons stated above, we determine that it is unconstitutional.",
+    "internalVote": {
+      "constitutional": 0,
+      "unconstitutional": 3,
+      "abstain": 1,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "c4833e51633f97f43adfba2ffeb6c1b713004a82a1bd062bc82b1371f53aa992057b1ef8f425f6174b1fddf5a9fc87d4e4dece2c1d9fd43c9e9f1eba4234170d"
+      }
+    }
+  ]
+}
