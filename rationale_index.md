@@ -44,3 +44,13 @@ This document provides an index of the constitutionality rationales published by
 | ga38 | Treasury Withdrawals | Blockfrost: Maintenance and Next Generation Indexing | Constitutional | [Link](./ga38/Blockfrost-Maintenance-and-Next-Generation-Indexing.md) |
 | ga39 | Treasury Withdrawals | Pogun: Capital Without Compromise | Constitutional | [Link](./ga39/Pogun-Capital-Without-Compromise.md) |
 | ga40 | Treasury Withdrawals | Revised Cardano Summit 2026 Singapore | Constitutional | [Link](./ga40/Revised-Cardano-Summit-2026-Singapore.md) |
+| ga41 | Treasury Withdrawals | Cardano at TOKEN2049 Singapore 2026: Baseline 'Platinum' Sponsorship Proposal | Constitutional | [Link](./ga41/Cardano-at-TOKEN2049-Singapore-2026-Baseline-Platinum-Sponsorship-Proposal.md) |
+| ga42 | Treasury Withdrawals | Cardano at TOKEN2049 Singapore 2026: Top-Up 'Title' Sponsorship Upgrade | Constitutional | [Link](./ga42/Cardano-at-TOKEN2049-Singapore-2026-Top-Up-Title-Sponsorship-Upgrade.md) |
+| ga43 | Treasury Withdrawals | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028 | Constitutional | [Link](./ga43/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2028.md) |
+| ga44 | Treasury Withdrawals | [OriLife × TonFarm] Identifying 180 Million Durians Without Physical Labels | Unconstitutional | [Link](./ga44/OriLife-TonFarm-Identifying-180-Million-Durians-Without-Physical-Labels.md) |
+| ga45 | Treasury Withdrawals | The first node in the browser; a Cardano USP | Constitutional | [Link](./ga45/The-first-node-in-the-browser-a-Cardano-USP.md) |
+| ga46 | Treasury Withdrawals | Pebble & Ecosystem maintenance: TypeScript core of Cardano | Constitutional | [Link](./ga46/Pebble-Ecosystem-maintenance-TypeScript-core-of-Cardano.md) |
+| ga47 | Treasury Withdrawals | Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research | Constitutional | [Link](./ga47/Cardano-Vision-2026-Human-Centred-Scalable-Post-Quantum-Secure-IO-Research.md) |
+| ga48 | Treasury Withdrawals | Cardano dOSPO and OMF Program | Unconstitutional | [Link](./ga48/Cardano-dOSPO-and-OMF-Program.md) |
+| ga49 | Treasury Withdrawals | Scalus: Cardano’s Application Platform for Building, Launching, and Scaling | Constitutional | [Link](./ga49/Scalus-Cardano’s-Application-Platform-for-Building-Launching-and-Scaling.md) |
+| ga50 | Treasury Withdrawals | Eternl: Path to Sustainability (2026-2027) | Unconstitutional | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.md) |

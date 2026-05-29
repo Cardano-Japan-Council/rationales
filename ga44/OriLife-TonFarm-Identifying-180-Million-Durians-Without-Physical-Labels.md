@@ -1,0 +1,26 @@
+# Governance Action ID  
+`gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d`
+
+## Summary  
+We consider this governance action to be unconstitutional.
+
+## Rationale Statement  
+This proposal is a Treasury Withdrawal Governance Action to withdraw ₳2,400,000 from the Cardano Treasury for the OriLife Alliance’s project “[OriLife × TonFarm] Identifying 180 Million Durians Without Physical Labels.” Regarding Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal adopts an immutable off-chain reference based on a content hash, and the proposal text includes an overview, motivation, budget, milestones, refund conditions, technical architecture, and other details. Additionally, regarding Article 2, Section 7, Paragraph 1, the proposal also outlines the purpose of the Treasury Withdrawal, the implementation period, the budget, and the conditions for repayment. Regarding Article 2, Section 7, Paragraph 3, the requested amount for this proposal is ₳2,400,000, and we have confirmed that it falls within the 350M ADA Net Change Limit applicable to Epochs 613–713 at the time of submission. However, regarding Article 2, Section 7, Paragraphs 2, 4, 5, and 6, we cannot confirm that the documentation meets the requirements regarding Treasury funding history within the past 24 months, independent audits, oversight metrics, and ADA allocation, fund administrators, “one or more separate accounts that can be audited by the Cardano Community,” “not be delegated to an SPO,” and “must be delegated to the predefined abstain voting option.” Therefore, we determine that this proposal is unconstitutional.
+
+## Precedent Discussion  
+None
+
+## Counterargument Discussion  
+None
+
+## Conclusion  
+For the reasons stated above, we determine that it is unconstitutional.
+
+## Internal Vote  
+- Constitutional: 0  
+- Unconstitutional: 3  
+- Abstain: 1  
+- Did Not Vote: 0  
+
+## References  
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)  
