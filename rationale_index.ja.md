@@ -44,3 +44,13 @@
 | ga38 | 財務引き出し | Blockfrost: 保守と次世代インデックス | 合憲 | [Link](./ga38/Blockfrost-Maintenance-and-Next-Generation-Indexing.ja.md) |
 | ga39 | 財務引き出し | Pogun: 妥協なき資本 | 合憲 | [Link](./ga39/Pogun-Capital-Without-Compromise.ja.md) |
 | ga40 | 財務引き出し | 改訂版 Cardano Summit 2026 Singapore | 合憲 | [Link](./ga40/Revised-Cardano-Summit-2026-Singapore.ja.md) |
+| ga41 | 財務引き出し | TOKEN2049 Singapore 2026 における Cardano の「Platinum」スポンサーシップに関する基本提案 | 合憲 | [Link](./ga41/Cardano-at-TOKEN2049-Singapore-2026-Baseline-Platinum-Sponsorship-Proposal.ja.md) |
+| ga42 | 財務引き出し | TOKEN2049 Singapore 2026 における Cardano の「Title」スポンサーシップ追加アップグレード提案 | 合憲 | [Link](./ga42/Cardano-at-TOKEN2049-Singapore-2026-Top-Up-Title-Sponsorship-Upgrade.ja.md) |
+| ga43 | 財務引き出し | Tweag による Cardano コアインフラストラクチャ向け Treasury Withdrawal（2026–2028）提案 | 合憲 | [Link](./ga43/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2028.ja.md) |
+| ga44 | 財務引き出し | [OriLife × TonFarm] 物理ラベルを使用せずに1億8,000万個のドリアンを識別する | 違憲 | [Link](./ga44/OriLife-TonFarm-Identifying-180-Million-Durians-Without-Physical-Labels.ja.md) |
+| ga45 | 財務引き出し | ブラウザ内の最初のノード；Cardano の USP | 合憲 | [Link](./ga45/The-first-node-in-the-browser-a-Cardano-USP.ja.md) |
+| ga46 | 財務引き出し | Pebble とエコシステムの保守：Cardano の TypeScript コア | 合憲 | [Link](./ga46/Pebble-Ecosystem-maintenance-TypeScript-core-of-Cardano.ja.md) |
+| ga47 | 財務引き出し | Cardano Vision 2026：人間中心、スケーラブル、耐量子計算機セキュア - IO Research | 合憲 | [Link](./ga47/Cardano-Vision-2026-Human-Centred-Scalable-Post-Quantum-Secure-IO-Research.ja.md) |
+| ga48 | 財務引き出し | Cardano dOSPO および OMF プログラム | 違憲 | [Link](./ga48/Cardano-dOSPO-and-OMF-Program.ja.md) |
+| ga49 | 財務引き出し | Scalus：構築、立ち上げ、およびスケーリングのための Cardano のアプリケーションプラットフォーム | 合憲 | [Link](./ga49/Scalus-Cardano’s-Application-Platform-for-Building-Launching-and-Scaling.ja.md) |
+| ga50 | 財務引き出し | Eternl：持続可能性への道筋（2026–2027） | 違憲 | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.ja.md) |
