@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We consider this governance action to be unconstitutional.",
+    "rationaleStatement": "This proposal is a Treasury Withdrawal Governance Action to withdraw ₳12,000,000 from the Cardano Treasury for the “Cardano dOSPO and OMF Program” by Christian Taylor / Open Source Cowboy Consulting. In accordance with Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal utilizes an immutable off-chain reference via IPFS. The proposal document includes an overview, objectives, individual work packages, budget, audit framework, operational structure, and repayment conditions. Regarding Article 2, Section 7, Paragraph 1, this proposal aims to maintain and operate open-source infrastructure within the Cardano ecosystem, and details the 36-month implementation period, the budget for each work package, the program structure, and the repayment conditions. Regarding Article 2, Section 7, Paragraph 3, the requested amount for this proposal is ₳12,000,000, which falls within the 350M ADA Net Change Limit applicable to Epochs 613–713 at the time of submission. Additionally, the requested amount for this proposal is stated in ADA. Regarding Article 2, Section 7, Paragraph 4, the proposal includes descriptions regarding quarterly financial reviews, annual program audits, Program Effectiveness Audit, public reporting, and council oversight structures. We therefore confirm that the proposal demonstrates awareness of audit and oversight metrics implementation regarding the use of Treasury funds. Regarding Article 2, Section 7, Paragraph 5, the proposal includes descriptions of the administrator—Christian Taylor / Open Source Cowboy Consulting—and the dOSPO entity scheduled to operate from Month 7 onward. The proposal text also contains explanations regarding the program operator, the External Open Source Advisory Council, the Technical Community Advisory Council, and quarterly reporting. Furthermore, regarding Article 2, Section 7, Paragraph 6, we have confirmed that there is no stake delegation to the reward account specified in the Governance Action metadata, and that the voting delegation is set to the predefined alwaysAbstain voting option. However, regarding Article 2, Section 7, Paragraph 2, we could not find sufficiently clear documentation regarding treasury funding or treasury withdrawals within the past 24 months. Therefore, we determine that this proposal is unconstitutional.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "None",
+    "conclusion": "For the reasons stated above, we determine that it is unconstitutional.",
+    "internalVote": {
+      "constitutional": 0,
+      "unconstitutional": 3,
+      "abstain": 1,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "edc899aec771b68844abed5d553b96f8a8de57de7f1b1305dd975df79ca24e722b853736ea9e0caf9f921275d4c8960a52dbf9e241cab16fbca4c70b12848802"
+      }
+    }
+  ]
+}
