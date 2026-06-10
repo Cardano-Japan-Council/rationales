@@ -53,4 +53,9 @@
 | ga47 | 財務引き出し | Cardano Vision 2026：人間中心、スケーラブル、耐量子計算機セキュア - IO Research | 合憲 | [Link](./ga47/Cardano-Vision-2026-Human-Centred-Scalable-Post-Quantum-Secure-IO-Research.ja.md) |
 | ga48 | 財務引き出し | Cardano dOSPO および OMF プログラム | 違憲 | [Link](./ga48/Cardano-dOSPO-and-OMF-Program.ja.md) |
 | ga49 | 財務引き出し | Scalus：構築、立ち上げ、およびスケーリングのための Cardano のアプリケーションプラットフォーム | 合憲 | [Link](./ga49/Scalus-Cardano’s-Application-Platform-for-Building-Launching-and-Scaling.ja.md) |
-| ga50 | 財務引き出し | Eternl：持続可能性への道筋（2026–2027） | 違憲 | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.ja.md) |
+| ga50 | 財務引き出し | Eternl：持続可能性への道筋（2026–2027） | 合憲 | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.ja.md) |
+| ga51 | 財務引き出し | Cardano重要統合 V2 | 合憲 | [Link](./ga51/Cardano-Critical-Integrations-V2.ja.md) |
+| ga52 | 財務引き出し | 5am.earth：Vision 2030 KPIに向けた信頼レイヤー | 合憲 | [Link](./ga52/5am-earth-Trust-Layer-Targeting-Vision-2030-KPIs.ja.md) |
+| ga53 | パラメーター変更 | Plutusコストモデルの更新 | 合憲 | [Link](./ga53/Update-Plutus-Cost-Models.ja.md) |
+| ga54 | 財務引き出し | Rare EvoおよびDev Gov Day 2026：Cardanoタイトルスポンサーシップ | 違憲 | [Link](./ga54/Rare-Evo-and-Dev-Gov-Day-2026-Cardano-Title-Sponsorship.ja.md) |
+| ga55 | 財務引き出し | TweagによるCardanoコアインフラストラクチャ向け財務引き出し（2026–2027） | 合憲 | [Link](./ga55/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2027.ja.md) |

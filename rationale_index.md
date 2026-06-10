@@ -53,4 +53,9 @@ This document provides an index of the constitutionality rationales published by
 | ga47 | Treasury Withdrawals | Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research | Constitutional | [Link](./ga47/Cardano-Vision-2026-Human-Centred-Scalable-Post-Quantum-Secure-IO-Research.md) |
 | ga48 | Treasury Withdrawals | Cardano dOSPO and OMF Program | Unconstitutional | [Link](./ga48/Cardano-dOSPO-and-OMF-Program.md) |
 | ga49 | Treasury Withdrawals | Scalus: Cardano’s Application Platform for Building, Launching, and Scaling | Constitutional | [Link](./ga49/Scalus-Cardano’s-Application-Platform-for-Building-Launching-and-Scaling.md) |
-| ga50 | Treasury Withdrawals | Eternl: Path to Sustainability (2026-2027) | Unconstitutional | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.md) |
+| ga50 | Treasury Withdrawals | Eternl: Path to Sustainability (2026-2027) | Constitutional | [Link](./ga50/Eternl-Path-to-Sustainability-2026-2027.md) |
+| ga51 | Treasury Withdrawals | Cardano Critical Integrations V2 | Constitutional | [Link](./ga51/Cardano-Critical-Integrations-V2.md) |
+| ga52 | Treasury Withdrawals | 5am.earth Trust Layer Targeting Vision 2030 KPIs | Constitutional | [Link](./ga52/5am-earth-Trust-Layer-Targeting-Vision-2030-KPIs.md) |
+| ga53 | Parameter Change | Update Plutus Cost Models | Constitutional | [Link](./ga53/Update-Plutus-Cost-Models.md) |
+| ga54 | Treasury Withdrawals | Rare Evo and Dev Gov Day 2026: Cardano Title Sponsorship | Unconstitutional | [Link](./ga54/Rare-Evo-and-Dev-Gov-Day-2026-Cardano-Title-Sponsorship.md) |
+| ga55 | Treasury Withdrawals | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2027 | Constitutional | [Link](./ga55/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2027.md) |
