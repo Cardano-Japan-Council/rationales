@@ -59,3 +59,9 @@
 | ga53 | パラメーター変更 | Plutusコストモデルの更新 | 合憲 | [Link](./ga53/Update-Plutus-Cost-Models.ja.md) |
 | ga54 | 財務引き出し | Rare EvoおよびDev Gov Day 2026：Cardanoタイトルスポンサーシップ | 違憲 | [Link](./ga54/Rare-Evo-and-Dev-Gov-Day-2026-Cardano-Title-Sponsorship.ja.md) |
 | ga55 | 財務引き出し | TweagによるCardanoコアインフラストラクチャ向け財務引き出し（2026–2027） | 合憲 | [Link](./ga55/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2027.ja.md) |
+| ga56 | パラメーター変更 | committeeMinSizeパラメータを7から5に引き下げる | 合憲 | [Link](./ga56/Reduce-the-committeeMinSize-parameter-from-7-to-5.ja.md) |
+| ga57 | 財務引き出し | IO: Hydra | 合憲 | [Link](./ga57/IO-Hydra.ja.md) |
+| ga58 | 情報アクション | 財務ガバナンスの改革 | 違憲 | [Link](./ga58/Reforming-Treasury-Governance.ja.md) |
+| ga59 | 財務引き出し | Ikigai Info Governance Action Depositの返還 | 棄権 | [Link](./ga59/Reimburse-Ikigai-Info-Governance-Action-Deposit.ja.md) |
+| ga60 | 財務引き出し | Eternl：持続可能性への道筋 v2 | 合憲 | [Link](./ga60/Eternl-Path-to-Sustainability-v2.ja.md) |
+| ga61 | ハードフォーク開始 | Protocol Version 11（van Rossem Hard Fork）へのハードフォーク | 合憲 | [Link](./ga61/Hard-Fork-to-Protocol-Version-11-van-Rossem-Hard-Fork.ja.md) |

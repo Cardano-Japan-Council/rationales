@@ -1,0 +1,26 @@
+# Governance Action ID  
+`gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur`
+
+## Summary  
+We consider this governance action to be constitutional.
+
+## Rationale Statement  
+This proposal is a Parameter Update Governance Action regarding Intersect's proposal to "Reduce the committeeMinSize parameter from 7 to 5". The proposal explains that changing the protocol parameter `committeeMinSize` - which defines the minimum number of members required for the Constitutional Committee to remain operational - from 7 to 5 will improve the operational resilience of on-chain governance by mitigating the risk of governance disruption due to resignations or the expiration of terms of office within the Constitutional Committee. Regarding Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal adopts an immutable off-chain reference using IPFS. Furthermore, the proposal text includes a title, abstract, motivation, rationale, and references; we therefore determine that it presents information sufficient for evaluation as a Governance Action. Regarding Article 2, Section 6, Paragraph 3 of the Cardano Constitution, the body of this proposal states that technical review and scrutiny were conducted through the Parameter Committee Parameter Change Process (PCP). Furthermore, the supplementary materials - specifically the TSC meeting minutes - confirm that the technical validity of this proposal was verified. Based on this, we determine that the technical review and scrutiny required by the Cardano Constitution has been carried out. Furthermore, we have confirmed that the proposed value of `committeeMinSize = 5` complies with the guardrails outlined in CMS-01, CMS-02, and CMS-03. Additionally, since `committeeMinSize` is a critical parameter for the governance system, PARAM-06a stipulates that a period of at least 90 days should ordinarily elapse between the publication of an off-chain proposal and the submission of the corresponding on-chain Governance Action. The body of the proposal explains that the off-chain proposal was published in November 2025 and that it was resubmitted because the previous Governance Action was invalidated due to a technical conflict. Based on these facts, no clear conflict between this proposal and PARAM-06a was identified. Therefore, we determine that this proposal is constitutional.
+
+## Precedent Discussion  
+None
+
+## Counterargument Discussion  
+None
+
+## Conclusion  
+For the reasons stated above, we determine that it is constitutional.
+
+## Internal Vote  
+- Constitutional: 4  
+- Unconstitutional: 0  
+- Abstain: 0  
+- Did Not Vote: 0  
+
+## References  
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)  

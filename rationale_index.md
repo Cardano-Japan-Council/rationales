@@ -59,3 +59,9 @@ This document provides an index of the constitutionality rationales published by
 | ga53 | Parameter Change | Update Plutus Cost Models | Constitutional | [Link](./ga53/Update-Plutus-Cost-Models.md) |
 | ga54 | Treasury Withdrawals | Rare Evo and Dev Gov Day 2026: Cardano Title Sponsorship | Unconstitutional | [Link](./ga54/Rare-Evo-and-Dev-Gov-Day-2026-Cardano-Title-Sponsorship.md) |
 | ga55 | Treasury Withdrawals | Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2027 | Constitutional | [Link](./ga55/Tweag-Core-Cardano-Infrastructure-Treasury-Withdrawal-2026-2027.md) |
+| ga56 | Parameter Change | Reduce the committeeMinSize parameter from 7 to 5 | Constitutional | [Link](./ga56/Reduce-the-committeeMinSize-parameter-from-7-to-5.md) |
+| ga57 | Treasury Withdrawals | IO: Hydra | Constitutional | [Link](./ga57/IO-Hydra.md) |
+| ga58 | Info Action | Reforming Treasury Governance | Unconstitutional | [Link](./ga58/Reforming-Treasury-Governance.md) |
+| ga59 | Treasury Withdrawals | Reimburse Ikigai Info Governance Action Deposit. | Abstain | [Link](./ga59/Reimburse-Ikigai-Info-Governance-Action-Deposit.md) |
+| ga60 | Treasury Withdrawals | Eternl: Path to Sustainability - v2 | Constitutional | [Link](./ga60/Eternl-Path-to-Sustainability-v2.md) |
+| ga61 | Hard Fork Initiation | Hard Fork to Protocol Version 11 ('van Rossem' Hard Fork) | Constitutional | [Link](./ga61/Hard-Fork-to-Protocol-Version-11-van-Rossem-Hard-Fork.md) |
