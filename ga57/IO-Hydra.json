@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We consider this governance action to be constitutional.",
+    "rationaleStatement": "This proposal is a Treasury Withdrawal Governance Action to withdraw ₳5,100,781 from the Cardano Treasury for \"IO: Hydra\" by Input Output. With regard to Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal adopts an immutable off-chain reference using IPFS. Furthermore, the proposal text includes the title, summary, rationale, justification, deliverables, roadmap, budget, contract management, and audit and oversight framework; we therefore determine that it presents information sufficient for evaluation as a Governance Action. Regarding Article 2, Section 7, Paragraphs 1 and 2 of the Cardano Constitution, the proposal outlines the purpose, implementation details, implementation period, cost breakdown, and repayment conditions of the Treasury Withdrawal. Furthermore, under the \"Prior Treasury Receipts\" section, the proposal discloses the history of past Treasury receipts and related withdrawal records from the Treasury. Regarding Article 2, Section 7, Paragraph 3, it is clearly stated that the requested amount for this proposal is ₳5,100,781 and falls within the 350M ADA Net Change Limit applicable to Epochs 613-713 at the time of submission. Furthermore, the requested amount for this proposal is stated in ADA, and the USD equivalent is provided for reference only. Article 2, Section 7, Paragraphs 4 and 5 describe the audit and oversight framework, including third-party guarantees, audits, reporting obligations, and the Oversight Committee, and designate Intersect as the entity responsible for managing the Treasury. It also states that a legal agreement will be entered into between Input Output and Cardano Development Holdings (CDH), with Intersect managing that agreement. Furthermore, Article 2, Section 7, Paragraph 6 describes the use of the Treasury Reserve Smart Contract (TRSC) and the Project Specific Smart Contract (PSSC) for segregated management; a structure designed to enable community auditing; non-delegation to an SPO; and delegation to auto-abstain DRep. We determine that this structure is intended to satisfy the requirements that it \"can be audited by the Cardano Community,\" uses \"separate accounts,\" is \"not delegated to an SPO,\" and is \"delegated to the predefined abstain voting option.\" Therefore, as no clear conflict with the Cardano Constitution has been identified, we determine that this proposal is constitutional.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "It is difficult to argue that a structure in which funds for multiple projects are consolidated into the TRSC using a single receiving address is fully consistent with the requirement for \"separate accounts\" set forth in Article 2, Section 7, Paragraph 6 of the Constitution. In light of this, some of our members deemed the structure unconstitutional, arguing that it could not be considered constitutional.",
+    "conclusion": "For the reasons stated above, we determine that it is constitutional.",
+    "internalVote": {
+      "constitutional": 3,
+      "unconstitutional": 1,
+      "abstain": 0,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "dad5cd837a3e5aed4adb727e68a5c88d3149c57ff06b3a9aac9000c4595aa1dd14bec6f91c4b483ac902c21db88eab6ee6a64a5768e74024eec71189d44b6a0a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We abstain from voting on this governance action.",
+    "rationaleStatement": "This proposal, \"Reimburse Ikigai Info Governance Action Deposit.\", is a Treasury Withdrawal Governance Action intended to reimburse a Governance Action deposit that could not be recovered due to a bug in the Cardano node software, together with compensation for lost staking rewards. We understand and appreciate the rationale behind this proposal. In particular, we recognize that an early participant in Cardano governance suffered a significant loss due to a system defect rather than any fault of their own. From the perspective of fairness, it is reasonable for the community to consider an appropriate remedy. However, this proposal differs from a typical Treasury Withdrawal because it seeks to compensate for a past loss. We do not believe that the current Cardano Constitution provides sufficiently clear standards for assessing the constitutional compliance of such compensation-based requests. First, regarding Article II, Section 7, Paragraphs 4 and 5, the proposal states that no ADA allocation is required for audits and oversight metrics, and designates the DReps as the Administrator while simultaneously stating that the Administrator will not hold the funds. We find it difficult to determine from the constitutional text alone whether a zero-ADA allocation for audits is permissible, or how the responsibilities of an Administrator should be interpreted when the Administrator does not take custody of the funds. Regarding Article II, Section 7, Paragraph 6, the proposal explicitly states that the Administrator will not hold the funds. We consider it a reasonable interpretation that this provision applies only when an Administrator takes custody of Treasury Withdrawal funds prior to distribution. Accordingly, based on the information available, we do not consider this issue to be a clear constitutional violation. We also note that the proposal seeks to compensate a specific recipient. While the proposal explains the historical circumstances surrounding the lost deposit, we believe that the relationship between the designated recipient and the original loss is an important consideration in a compensation case. However, the Constitution does not currently establish clear requirements regarding the level of evidence or verification needed in such circumstances. Furthermore, the proposal includes not only reimbursement of the original 100,000 ADA deposit but also an additional 3,000 ADA as compensation for lost staking rewards. While reimbursement of the principal amount is understandable, compensation for hypothetical foregone rewards raises broader questions regarding the scope of Treasury-funded compensation. At present, neither the Constitution nor established governance practice provides clear guidance regarding where such compensation should begin or end. Taken together, we do not oppose the objective of providing relief in this case. Rather, we conclude that the Constitution does not currently provide sufficiently clear standards to determine whether this proposal should be considered constitutionally compliant or non-compliant. Several provisions remain open to reasonable interpretation, and the issues raised by this proposal extend beyond what the current constitutional framework was designed to address. We therefore believe that further community discussion and clearer governance standards would be beneficial, particularly regarding compensation for losses arising from system defects, verification of recipients, treatment of foregone benefits, and the constitutional requirements relating to audits and administrators.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "None",
+    "conclusion": "For these reasons, we abstain from voting on this proposal.",
+    "internalVote": {
+      "constitutional": 0,
+      "unconstitutional": 1,
+      "abstain": 3,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "6dd89136c5891273d16d007b0cd03593279b3a9d67f053adb0c357ff5760ee303ee7e1911f9de33ed0b4cb8157f7b721b3a513666add456e116ce4a7b5945407"
+      }
+    }
+  ]
+}
