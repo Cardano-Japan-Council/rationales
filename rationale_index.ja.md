@@ -65,3 +65,16 @@
 | ga59 | 財務引き出し | Ikigai Info Governance Action Depositの返還 | 棄権 | [Link](./ga59/Reimburse-Ikigai-Info-Governance-Action-Deposit.ja.md) |
 | ga60 | 財務引き出し | Eternl：持続可能性への道筋 v2 | 合憲 | [Link](./ga60/Eternl-Path-to-Sustainability-v2.ja.md) |
 | ga61 | ハードフォーク開始 | Protocol Version 11（van Rossem Hard Fork）へのハードフォーク | 合憲 | [Link](./ga61/Hard-Fork-to-Protocol-Version-11-van-Rossem-Hard-Fork.ja.md) |
+| ga62 | 財務引き出し | Strike Financeの流動性配備 | 合憲 | [Link](./ga62/Strike-Finance-Liquidity-Deployment.ja.md) |
+| ga63 | 財務引き出し | WirexによるCardanoへの実世界決済導入のための3,961,538 ada引き出し | 合憲 | [Link](./ga63/Withdraw-3961538-ada-for-Bringing-Real-World-Payments-to-Cardano-with-Wirex.ja.md) |
+| ga64 | 財務引き出し | TxPipeによるDolos：Cardanoの軽量データノード保守のための540,750 ada引き出し | 合憲 | [Link](./ga64/Withdraw-540750-ada-for-by-TxPipe-Dolos-Maintaining-Cardano's-Lightweight-D.ja.md) |
+| ga65 | 財務引き出し | Hardware Wallet Maintenance 2026のための1,310,960 ada引き出し | 合憲 | [Link](./ga65/Withdraw-1310960-ada-for-Hardware-Wallet-Maintenance-2026.ja.md) |
+| ga66 | 財務引き出し | Intersect技術運営委員会支援のための1,193,000 ada引き出し | 合憲 | [Link](./ga66/Withdraw-1193000-ada-for-Intersect-Technical-Steering-Committee-Support.ja.md) |
+| ga67 | 財務引き出し | Intersect：Cardanoエコシステムのためのガバナンス調整と技術的スチュワードシップに対する25,400,000 ada引き出し | 合憲 | [Link](./ga67/Withdraw-25400000-ada-for-Intersect-Governance-coordination-and-technical.ja.md) |
+| ga68 | 財務引き出し | Mithril Protocolのための3,810,423 ada引き出し | 合憲 | [Link](./ga68/Withdraw-3810423-ada-for-Mithril-Protocol.ja.md) |
+| ga69 | 財務引き出し | MLabs Core Tool Maintenance & Enhancement：PlutarchとPlyのための1,162,746 ada引き出し | 合憲 | [Link](./ga69/Withdraw-1162746-ada-for-MLabs-Core-Tool-Maintenance-&-Enhancement-Plutarc.ja.md) |
+| ga70 | 財務引き出し | TxPipeによるOura：Cardanoのイベントパイプライン保守のための540,750 ada引き出し | 合憲 | [Link](./ga70/Withdraw-540750-ada-for-Oura-by-TxPipe-Maintaining-Cardano’s-Event-Pipeline.ja.md) |
+| ga71 | 財務引き出し | TxPipeによるPallas：CardanoのコアRustライブラリ保守のための540,750 ada引き出し | 合憲 | [Link](./ga71/Withdraw-540750-ada-for-Pallas-by-TxPipe-Maintaining-Cardano's-Core-Rust-Li.ja.md) |
+| ga72 | 財務引き出し | TxPipeによるTx3：CardanoのdAppプロトコル向けオープンAPIレイヤーのための1,684,050 ada引き出し | 合憲 | [Link](./ga72/Withdraw-1684050-ada-for-Tx3-by-TxPipe-Open-API-Layer-for-Cardano's-dApp-P.ja.md) |
+| ga73 | 財務引き出し | TxPipeによるUTxO RPC：Cardanoの統合標準保守のための540,750 ada引き出し | 合憲 | [Link](./ga73/Withdraw-540750-ada-for-UTxO-RPC-by-TxPipe-Maintaining-Cardano’s-Integratio.ja.md) |
+| ga74 | 財務引き出し | Sundial x CharmsによるAlchemy：CardanoネイティブBitcoin Treasuryプロトコル | 違憲 | [Link](./ga74/Alchemy-by-Sundial-x-Charms-Cardano-Native-Bitcoin-Treasury-Protocol.ja.md) |
