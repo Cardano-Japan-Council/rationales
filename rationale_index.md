@@ -65,3 +65,16 @@ This document provides an index of the constitutionality rationales published by
 | ga59 | Treasury Withdrawals | Reimburse Ikigai Info Governance Action Deposit. | Abstain | [Link](./ga59/Reimburse-Ikigai-Info-Governance-Action-Deposit.md) |
 | ga60 | Treasury Withdrawals | Eternl: Path to Sustainability - v2 | Constitutional | [Link](./ga60/Eternl-Path-to-Sustainability-v2.md) |
 | ga61 | Hard Fork Initiation | Hard Fork to Protocol Version 11 ('van Rossem' Hard Fork) | Constitutional | [Link](./ga61/Hard-Fork-to-Protocol-Version-11-van-Rossem-Hard-Fork.md) |
+| ga62 | Treasury Withdrawals | Strike Finance Liquidity Deployment | Constitutional | [Link](./ga62/Strike-Finance-Liquidity-Deployment.md) |
+| ga63 | Treasury Withdrawals | Bringing Real-World Payments to Cardano with Wirex | Constitutional | [Link](./ga63/Withdraw-3961538-ada-for-Bringing-Real-World-Payments-to-Cardano-with-Wirex.md) |
+| ga64 | Treasury Withdrawals | Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2 | Constitutional | [Link](./ga64/Withdraw-540750-ada-for-by-TxPipe-Dolos-Maintaining-Cardano's-Lightweight-D.md) |
+| ga65 | Treasury Withdrawals | Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026 | Constitutional | [Link](./ga65/Withdraw-1310960-ada-for-Hardware-Wallet-Maintenance-2026.md) |
+| ga66 | Treasury Withdrawals | Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support | Constitutional | [Link](./ga66/Withdraw-1193000-ada-for-Intersect-Technical-Steering-Committee-Support.md) |
+| ga67 | Treasury Withdrawals | Intersect: Governance coordination and technical stewardship for the Cardano ecosystem | Constitutional | [Link](./ga67/Withdraw-25400000-ada-for-Intersect-Governance-coordination-and-technical.md) |
+| ga68 | Treasury Withdrawals | Withdraw 3,810,423 ada for Mithril Protocol | Constitutional | [Link](./ga68/Withdraw-3810423-ada-for-Mithril-Protocol.md) |
+| ga69 | Treasury Withdrawals | MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply | Constitutional | [Link](./ga69/Withdraw-1162746-ada-for-MLabs-Core-Tool-Maintenance-&-Enhancement-Plutarc.md) |
+| ga70 | Treasury Withdrawals | Oura by TxPipe: Maintaining Cardano's Event Pipeline | Constitutional | [Link](./ga70/Withdraw-540750-ada-for-Oura-by-TxPipe-Maintaining-Cardano’s-Event-Pipeline.md) |
+| ga71 | Treasury Withdrawals | Pallas by TxPipe: Maintaining Cardano's Core Rust Libraries, Year 2 | Constitutional | [Link](./ga71/Withdraw-540750-ada-for-Pallas-by-TxPipe-Maintaining-Cardano's-Core-Rust-Li.md) |
+| ga72 | Treasury Withdrawals | Tx3 by TxPipe: Open API Layer for Cardano's dApp Protocols | Constitutional | [Link](./ga72/Withdraw-1684050-ada-for-Tx3-by-TxPipe-Open-API-Layer-for-Cardano's-dApp-P.md) |
+| ga73 | Treasury Withdrawals | UTxO RPC by TxPipe: Maintaining Cardano's Integration Standard, Year 2 | Constitutional | [Link](./ga73/Withdraw-540750-ada-for-UTxO-RPC-by-TxPipe-Maintaining-Cardano’s-Integratio.md) |
+| ga74 | Treasury Withdrawals | Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol | Unconstitutional | [Link](./ga74/Alchemy-by-Sundial-x-Charms-Cardano-Native-Bitcoin-Treasury-Protocol.md) |

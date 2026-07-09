@@ -1,0 +1,26 @@
+# Governance Action ID  
+`gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2`
+
+## Summary  
+We consider this governance action to be unconstitutional.
+
+## Rationale Statement  
+This proposal is a Treasury Withdrawal Governance Action to withdraw ₳10,000,000 from the Cardano Treasury in connection with "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol," proposed through a collaboration between Sundial Protocol and Charms. With regard to Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution, this proposal employs an off-chain reference fixed by a commit hash and presents the proposal's title, summary, rationale, justification, and relevant supplementary materials. These comply with the requirements regarding the format and supporting documentation for Governance Actions. Regarding Article 2, Section 7, Paragraph 1, this proposal aims to build a Bitcoin Treasury protocol and BTCfi infrastructure layer for Cardano, and outlines a phased implementation plan, a breakdown of costs, and conditions for repayment to the Treasury. Regarding Article 2, Section 7, Paragraph 3, this proposal states that the requested withdrawal is designed not to exceed the prevailing Net Change Limit. Regarding Article 2, Section 7, Paragraph 4, this proposal allocates funds for independent security reviews, audits, and economic modeling, among other activities, and the accompanying supplementary materials present metrics for oversight via a public dashboard and monthly reports. Regarding Article 2, Section 7, Paragraph 5, this proposal nominates Intersect as the provisional fund administrator, subject to confirmation and final agreement, and describes a framework to support accounting, fund segregation, milestone verification, reporting, and custody controls. Regarding Article 2, Section 7, Paragraph 6, this proposal states that any ADA held by the administrator will be kept in auditable accounts and delegated to auto-abstain, not to a Stake Pool Operator. However, Article 2, Section 7, Paragraph 2 requires future recipients of Treasury Withdrawals to disclose whether they have received ADA from the Cardano Treasury within the past 24 months. Upon reviewing this proposal, we were unable to confirm such explicit disclosure. We interpret Article 2, Section 7, Paragraph 2 as requiring explicit disclosure regarding whether ADA has been received from the Cardano Treasury, even if no Treasury funds have been received. Therefore, we cannot confirm that this proposal meets the disclosure requirements of that paragraph. Consequently, we determine that this proposal is unconstitutional.
+
+## Precedent Discussion  
+None
+
+## Counterargument Discussion  
+None
+
+## Conclusion  
+For the reasons stated above, we determine that it is unconstitutional.
+
+## Internal Vote  
+- Constitutional: 0  
+- Unconstitutional: 3  
+- Abstain: 1  
+- Did Not Vote: 0  
+
+## References  
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)  
