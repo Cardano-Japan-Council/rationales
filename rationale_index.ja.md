@@ -78,3 +78,10 @@
 | ga72 | 財務引き出し | TxPipeによるTx3：CardanoのdAppプロトコル向けオープンAPIレイヤーのための1,684,050 ada引き出し | 合憲 | [Link](./ga72/Withdraw-1684050-ada-for-Tx3-by-TxPipe-Open-API-Layer-for-Cardano's-dApp-P.ja.md) |
 | ga73 | 財務引き出し | TxPipeによるUTxO RPC：Cardanoの統合標準保守のための540,750 ada引き出し | 合憲 | [Link](./ga73/Withdraw-540750-ada-for-UTxO-RPC-by-TxPipe-Maintaining-Cardano’s-Integratio.ja.md) |
 | ga74 | 財務引き出し | Sundial x CharmsによるAlchemy：CardanoネイティブBitcoin Treasuryプロトコル | 違憲 | [Link](./ga74/Alchemy-by-Sundial-x-Charms-Cardano-Native-Bitcoin-Treasury-Protocol.ja.md) |
+| ga75 | 財務引き出し | Cardano Builder DAO | 合憲 | [Link](./ga75/Cardano-Builder-DAO.ja.md) |
+| ga76 | 財務引き出し | Cardano Enterprise Adoption: Ticketing Platformのための4,969,231 ada引き出し | 合憲 | [Link](./ga76/Withdraw-4969231-ada-for-Cardano-Enterprise-Adoption-Ticketing-Platform.ja.md) |
+| ga77 | 財務引き出し | Se7en Labs: Daedalusウォレット保守および改善 2026-2027 | 合憲 | [Link](./ga77/Se7en-Labs-Daedalus-Wallet-Maintenance-and-Improvements-2026-2027.ja.md) |
+| ga78 | 財務引き出し | Blockfrostの非営利化への移行 | 合憲 | [Link](./ga78/Blockfrosts-transformation-to-not-for-profit.ja.md) |
+| ga79 | 財務引き出し | Scalus 2026: 保守、Dijkstra対応、相互運用性およびアプリケーションランタイム | 合憲 | [Link](./ga79/Scalus-2026-Maintenance-Dijkstra-Readiness-Interoperability-Application-Runtime.ja.md) |
+| ga80 | 財務引き出し | Global Order Book: Cardano DeFiの取引量増加のための接続 | 違憲 | [Link](./ga80/Global-Order-Book-connect-Cardano-DeFi-to-increase-transaction.ja.md) |
+| ga81 | 情報アクション | Cardano Treasury ネットチェンジリミット Epoch 613-713 | 違憲 | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.ja.md) |
