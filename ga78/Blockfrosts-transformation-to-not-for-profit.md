@@ -1,0 +1,26 @@
+# Governance Action ID  
+`gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq`
+
+## Summary  
+We consider this governance action to be constitutional.
+
+## Rationale Statement  
+This proposal is a Treasury Withdrawal Governance Action to withdraw ₳9,832,979 from the Cardano Treasury in connection with Input Output Global's "Blockfrost's transformation to not-for-profit" initiative. This proposal refers to the proposal document on IPFS and presents the proposal's title, summary, rationale, and justification. These elements comply with the requirements of Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution. Regarding Article 2, Section 7, Paragraph 1, this proposal aims to transition Blockfrost into a free, community-governed public good, with an implementation period of 18 months. It also provides a breakdown of costs for personnel, operations and infrastructure, legal, and accounting, and outlines the conditions for the return of any unpaid funds at the end of the implementation period, as well as any unused funds resulting from partial implementation or a reduction in scope. Regarding Article 2, Section 7, Paragraph 2, this proposal discloses the total amounts allocated and withdrawn, as well as the amounts received, percentages of allocation, and corresponding Governance Actions for each workstream regarding past Cardano Treasury funding received by IO and its affiliated entities. Regarding Article 2, Section 7, Paragraph 3, this proposal confirms that the requested amount of ₳9,832,979 falls within the applicable Net Change Limit. Regarding Article 2, Section 7, Paragraph 4, this proposal outlines progress monitoring by Intersect; review and approval of completed work for each milestone by a third-party assurer; verification by an Oversight Committee composed of external, independent third-party organizations; metric tracking via a public dashboard; reporting obligations; and milestone-based payment management. Regarding Article 2, Section 7, Paragraph 5, this proposal states that Intersect will manage the legal contract as well as the Treasury Reserve Smart Contract and the Project-Specific Smart Contract, and monitor project progress. It also states that a third-party assurer will review and sign off on the completion of each milestone against the corresponding deliverables. Regarding Article 2, Section 7, Paragraph 6, this proposal states that funds received through the Treasury Withdrawal will first be managed in the Treasury Reserve Smart Contract and then transferred in stages to the Project-Specific Smart Contract. It also provides for auditing and metric tracking through a public dashboard, as well as on-chain verifiability. Furthermore, it states that these Smart Contracts will not be staked with an SPO but will instead be delegated to the predefined abstention voting option. Therefore, as no clear conflict with the Cardano Constitution has been identified, this proposal is deemed constitutional.
+
+## Precedent Discussion  
+None
+
+## Counterargument Discussion  
+One member ruled that this proposal was unconstitutional because it shared the same receiving address as other projects, thereby violating Article 2, Section 7, Paragraph 6 of the Constitution, which requires that funds be "held in one or more separate accounts."
+
+## Conclusion  
+For the reasons stated above, we determine that it is constitutional.
+
+## Internal Vote  
+- Constitutional: 2  
+- Unconstitutional: 1  
+- Abstain: 1  
+- Did Not Vote: 0  
+
+## References  
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)  

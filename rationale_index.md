@@ -78,3 +78,10 @@ This document provides an index of the constitutionality rationales published by
 | ga72 | Treasury Withdrawals | Tx3 by TxPipe: Open API Layer for Cardano's dApp Protocols | Constitutional | [Link](./ga72/Withdraw-1684050-ada-for-Tx3-by-TxPipe-Open-API-Layer-for-Cardano's-dApp-P.md) |
 | ga73 | Treasury Withdrawals | UTxO RPC by TxPipe: Maintaining Cardano's Integration Standard, Year 2 | Constitutional | [Link](./ga73/Withdraw-540750-ada-for-UTxO-RPC-by-TxPipe-Maintaining-Cardano’s-Integratio.md) |
 | ga74 | Treasury Withdrawals | Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol | Unconstitutional | [Link](./ga74/Alchemy-by-Sundial-x-Charms-Cardano-Native-Bitcoin-Treasury-Protocol.md) |
+| ga75 | Treasury Withdrawals | Cardano Builder DAO | Constitutional | [Link](./ga75/Cardano-Builder-DAO.md) |
+| ga76 | Treasury Withdrawals | Withdraw 4,969,231 ada for Cardano Enterprise Adoption: Ticketing Platform | Constitutional | [Link](./ga76/Withdraw-4969231-ada-for-Cardano-Enterprise-Adoption-Ticketing-Platform.md) |
+| ga77 | Treasury Withdrawals | Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027 | Constitutional | [Link](./ga77/Se7en-Labs-Daedalus-Wallet-Maintenance-and-Improvements-2026-2027.md) |
+| ga78 | Treasury Withdrawals | Blockfrost's transformation to not-for-profit | Constitutional | [Link](./ga78/Blockfrosts-transformation-to-not-for-profit.md) |
+| ga79 | Treasury Withdrawals | Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime | Constitutional | [Link](./ga79/Scalus-2026-Maintenance-Dijkstra-Readiness-Interoperability-Application-Runtime.md) |
+| ga80 | Treasury Withdrawals | Global Order Book: Connect Cardano DeFi to Increase Transactions | Unconstitutional | [Link](./ga80/Global-Order-Book-connect-Cardano-DeFi-to-increase-transaction.md) |
+| ga81 | Info Action | Net Change Limit Cardano Treasury Epochs 613-713 | Unconstitutional | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.md) |
