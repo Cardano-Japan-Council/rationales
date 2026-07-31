@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We consider this governance action to be unconstitutional.",
+    "rationaleStatement": "This proposal is an Information Governance Action regarding the \"Name the Protocol Version 12 hard fork 'von Bergen'.\" We determine that this proposal does not meet the requirements of Article 2, Section 6, Paragraph 1 of the Cardano Constitution. Article 2, Section 6, Paragraph 1 of the Cardano Constitution requires that Governance Actions include a URL and a hash of the document, and further requires that the document published at that URL be immutable and cannot be altered after submission. Furthermore, Governance Actions are required to follow a standardized and legible format. The off-chain reference cited in this proposal is the following URL: https://str8pool.com/governance/2026-07-23-FabianvBergen.jsonld. This URL is a standard HTTPS URL, and the content at this URL may be modified in the future. Therefore, this reference cannot be deemed an immutable off-chain reference. Furthermore, regarding the submitted JSON-LD, garbled characters were observed in some quotation marks and apostrophes; from the perspective of readability, it cannot be deemed to conform to the \"standardized and legible format\" required by Article 2, Section 6, Paragraph 1 of the Cardano Constitution. Regardless of the type of Governance Action, providing an immutable off-chain reference and publishing documents in a standardized and legible format are essential requirements for ensuring the reproducibility and verifiability of the proposal's content. Therefore, as this proposal does not comply with Article 2, Section 6, Paragraph 1 of the Cardano Constitution, it is deemed unconstitutional.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "None",
+    "conclusion": "For the reasons stated above, we determine that it is unconstitutional.",
+    "internalVote": {
+      "constitutional": 1,
+      "unconstitutional": 3,
+      "abstain": 0,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "9a9b01a3704cd7d3a42fe9a3067c2d6f35f7aa6125eb9301462ed07f2b2324b560c2a784cafb45abca44d5c6080b99c9aa89a9ff93bb081a2c62049ca4e9fc0f"
+      }
+    }
+  ]
+}
