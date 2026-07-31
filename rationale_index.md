@@ -85,3 +85,7 @@ This document provides an index of the constitutionality rationales published by
 | ga79 | Treasury Withdrawals | Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime | Constitutional | [Link](./ga79/Scalus-2026-Maintenance-Dijkstra-Readiness-Interoperability-Application-Runtime.md) |
 | ga80 | Treasury Withdrawals | Global Order Book: Connect Cardano DeFi to Increase Transactions | Unconstitutional | [Link](./ga80/Global-Order-Book-connect-Cardano-DeFi-to-increase-transaction.md) |
 | ga81 | Info Action | Net Change Limit Cardano Treasury Epochs 613-713 | Unconstitutional | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.md) |
+| ga82 | Treasury Withdrawals | Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phase 1 of 2) | Constitutional | [Link](./ga82/Bifrost-Unlocking-Bitcoin-DeFi-on-Cardano-Road-to-Mainnet-Phase-1-of-2.md) |
+| ga83 | Treasury Withdrawals | Revised Cardano dOSPO and OMF Program Proposal | Constitutional | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.md) |
+| ga84 |  |  |  |  |
+| ga85 | Info Action | Name the Protocol Version 12 hard fork "von Bergen" | Unconstitutional | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.md) |
