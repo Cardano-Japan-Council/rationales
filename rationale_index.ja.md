@@ -85,3 +85,7 @@
 | ga79 | 財務引き出し | Scalus 2026: 保守、Dijkstra対応、相互運用性およびアプリケーションランタイム | 合憲 | [Link](./ga79/Scalus-2026-Maintenance-Dijkstra-Readiness-Interoperability-Application-Runtime.ja.md) |
 | ga80 | 財務引き出し | Global Order Book: Cardano DeFiの取引量増加のための接続 | 違憲 | [Link](./ga80/Global-Order-Book-connect-Cardano-DeFi-to-increase-transaction.ja.md) |
 | ga81 | 情報アクション | Cardano Treasury ネットチェンジリミット Epoch 613-713 | 違憲 | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.ja.md) |
+| ga82 | 財務引き出し | Bifrost：Cardano上でBitcoin DeFiを解き放つ―メインネットへの道（フェーズ1/2） | 合憲 | [Link](./ga82/Bifrost-Unlocking-Bitcoin-DeFi-on-Cardano-Road-to-Mainnet-Phase-1-of-2.ja.md) |
+| ga83 | 財務引き出し | 改訂版 Cardano dOSPOおよびOMFプログラム提案 | 合憲 | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.ja.md) |
+| ga84 |  |  |  |  |
+| ga85 | 情報アクション | Protocol Version 12ハードフォークを「von Bergen」と命名 | 違憲 | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.ja.md) |
