@@ -87,5 +87,5 @@ This document provides an index of the constitutionality rationales published by
 | ga81 | Info Action | Net Change Limit Cardano Treasury Epochs 613-713 | Unconstitutional | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.md) |
 | ga82 | Treasury Withdrawals | Bifrost: Unlocking Bitcoin DeFi on Cardano - Road to Mainnet (Phase 1 of 2) | Constitutional | [Link](./ga82/Bifrost-Unlocking-Bitcoin-DeFi-on-Cardano-Road-to-Mainnet-Phase-1-of-2.md) |
 | ga83 | Treasury Withdrawals | Revised Cardano dOSPO and OMF Program Proposal | Constitutional | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.md) |
-| ga84 |  |  |  |  |
+| ga84 | Treasury Withdrawals | Withdraw 120,000,000 ada for AlphaGrowth's Cardano PRIME | Constitutional | [Link](./ga84/Withdraw-120000000-ada-for-AlphaGrowths-Cardano-PRIME.md) |
 | ga85 | Info Action | Name the Protocol Version 12 hard fork "von Bergen" | Unconstitutional | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.md) |

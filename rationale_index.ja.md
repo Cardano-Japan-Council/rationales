@@ -87,5 +87,5 @@
 | ga81 | 情報アクション | Cardano Treasury ネットチェンジリミット Epoch 613-713 | 違憲 | [Link](./ga81/Net-Change-Limit-Cardano-Treasury-Epochs-613-713.ja.md) |
 | ga82 | 財務引き出し | Bifrost：Cardano上でBitcoin DeFiを解き放つ―メインネットへの道（フェーズ1/2） | 合憲 | [Link](./ga82/Bifrost-Unlocking-Bitcoin-DeFi-on-Cardano-Road-to-Mainnet-Phase-1-of-2.ja.md) |
 | ga83 | 財務引き出し | 改訂版 Cardano dOSPOおよびOMFプログラム提案 | 合憲 | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.ja.md) |
-| ga84 |  |  |  |  |
+| ga84 | 財務引き出し | AlphaGrowthのCardano PRIMEのための120,000,000 ada引き出し | 合憲 | [Link](./ga84/Withdraw-120000000-ada-for-AlphaGrowths-Cardano-PRIME.ja.md) |
 | ga85 | 情報アクション | Protocol Version 12ハードフォークを「von Bergen」と命名 | 違憲 | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.ja.md) |
