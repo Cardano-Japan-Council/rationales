@@ -1,0 +1,86 @@
+{
+  "@context": {
+    "@language": "en",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "RelevantArticles": "CIP136:RelevantArticles"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@container": "@set",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "did": "@id",
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "We consider this governance action to be constitutional.",
+    "rationaleStatement": "This proposal is a Treasury Withdrawal Governance Action to withdraw ₳120,000,000 from the Cardano Treasury in connection with AlphaGrowth's \"AlphaGrowth Cardano PRIME\". This proposal refers to the proposal document on IPFS and presents the proposal's title, summary, rationale, and justification. These elements comply with the requirements of Article 2, Section 6, Paragraphs 1 and 2 of the Cardano Constitution. Regarding Article 2, Section 7, Paragraph 1, this proposal outlines a 12-month program aimed at improving the readiness of protocols within the Cardano DeFi ecosystem, effectively utilizing incentives, and fostering sustainable liquidity growth. It also outlines a phased implementation model: Phase 1 involves the publication of a Current-State Audit; Phase 2 involves identifying gaps in integration, product development, and ecosystem support; and Phase 3 involves the deployment of incentives and capital following the Operating Group's approval of the Phase 3 Release Plan. Furthermore, it establishes conditions for returning unused, unclaimed, unreleased, or surplus funds to the Treasury. Regarding Article 2, Section 7, Paragraph 2, this proposal states that AlphaGrowth has not received funds from the Cardano Treasury in the past 24 months. Regarding Article 2, Section 7, Paragraph 3, Governance Action (gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq) was approved with the support of more than 50% of active voting stakes, we confirmed that the period from Epoch 613 to Epoch 713 remains unchanged, and the previous Net Change Limit (NCL) of 350,000,000 ADA has been replaced with an NCL of 500,000,000 ADA. Consequently, we confirmed that this proposal falls within the valid NCL range. Regarding Article 2, Section 7, Paragraph 4, this proposal allocates ₳2,000,000 for independent auditing or assurance and stipulates the quarterly reporting of metrics regarding financial and ecosystem impacts. Regarding Article 2, Section 7, Paragraph 5, this proposal designates Intersect as the Constitutional Administrator and stipulates that it shall directly manage the withdrawn funds. It also outlines a supervisory framework whereby the Operating Group can review significant measures and either reject them or impose conditions. Regarding Article 2, Section 7, Paragraph 6, this proposal stipulates that funds withdrawn from the Treasury must be managed separately from other funds, and that funds held prior to payment must be delegated to \"Abstain.\" Furthermore, an on-chain verification of the Stake Credential specified in the Treasury Withdrawal revealed that it is currently in a \"Deregistered\" state, and no delegation to a Stake Pool Operator or DRep was confirmed. Therefore, as no clear conflict with the Cardano Constitution has been identified, this proposal is deemed constitutional.",
+    "precedentDiscussion": "None",
+    "counterargumentDiscussion": "One member ruled that this proposal was unconstitutional because it shared the same receiving address as other projects, thereby violating Article 2, Section 7, Paragraph 6 of the Constitution, which requires that funds be \"held in one or more separate accounts.\"",
+    "conclusion": "For the reasons stated above, we determine that it is constitutional.",
+    "internalVote": {
+      "constitutional": 3,
+      "unconstitutional": 1,
+      "abstain": 0,
+      "didNotVote": 0
+    },
+    "references": [
+      {
+        "@type": "RelevantArticles",
+        "label": "CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION",
+        "uri": "ipfs://bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cardano Japan Council",
+      "witness": {
+        "witnessAlgorithm": "ed25519",
+        "publicKey": "833ddc6eedc272e763c33b9e6ed91efea5f0a5161f05bf72c83326a9b11507de",
+        "signature": "ceae98faa927a0d11ed13a1e4d22ee5839a13f89d4fa24e010e3b842e3183e49ac7e3ee773d79c0c5f72d6e0f05ccc5ef988f2eb099e97d729f5548fdd7b7306"
+      }
+    }
+  ]
+}
