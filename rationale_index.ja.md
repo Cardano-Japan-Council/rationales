@@ -89,3 +89,4 @@
 | ga83 | 財務引き出し | 改訂版 Cardano dOSPOおよびOMFプログラム提案 | 合憲 | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.ja.md) |
 | ga84 | 財務引き出し | AlphaGrowthのCardano PRIMEのための120,000,000 ada引き出し | 合憲 | [Link](./ga84/Withdraw-120000000-ada-for-AlphaGrowths-Cardano-PRIME.ja.md) |
 | ga85 | 情報アクション | Protocol Version 12ハードフォークを「von Bergen」と命名 | 違憲 | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.ja.md) |
+| ga86 | パラメーター変更 | minPoolCostを75 adaに引き下げ、Plutusメモリ上限を引き上げる（パート2） | 合憲 | [Link](./ga86/Reduce-minPoolCost-to-75-ada-and-increase-Plutus-Memory-Limits-Part-2.ja.md) |

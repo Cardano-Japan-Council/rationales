@@ -89,3 +89,4 @@ This document provides an index of the constitutionality rationales published by
 | ga83 | Treasury Withdrawals | Revised Cardano dOSPO and OMF Program Proposal | Constitutional | [Link](./ga83/Revised-Cardano-dOSPO-and-OMF-Program-Proposal.md) |
 | ga84 | Treasury Withdrawals | Withdraw 120,000,000 ada for AlphaGrowth's Cardano PRIME | Constitutional | [Link](./ga84/Withdraw-120000000-ada-for-AlphaGrowths-Cardano-PRIME.md) |
 | ga85 | Info Action | Name the Protocol Version 12 hard fork "von Bergen" | Unconstitutional | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.md) |
+| ga86 | Parameter Change | Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2) | Constitutional | [Link](./ga86/Reduce-minPoolCost-to-75-ada-and-increase-Plutus-Memory-Limits-Part-2.md) |
