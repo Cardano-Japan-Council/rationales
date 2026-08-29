@@ -1,0 +1,26 @@
+# Governance Action ID
+`gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp`
+
+## 要約
+本ガバナンスアクションは違憲であると判断します。
+
+## 根拠説明
+本提案は、「Governance Incentives Framework 2026」に関連して、Cardano Treasuryから₳4,207,967を引き出すTreasury Withdrawal Governance Actionです。Cardano憲法第2条第6節第1項および第2項について、本提案はコミットハッシュ付きの不変な文書として参照されています。さらに、提案の題名、概要、正当化および関連する補足資料が提示されているため、同節の要件を満たしていると判断します。第2条第7節第1項について、本提案はGovernance Incentives Frameworkの調査、設計、モデリングおよびテストを実施することを目的としており、7つのマイルストーンを通じて12か月間にわたりプロジェクトを実施することを示しています。さらに、各活動に関連する費用および経費が示されており、未使用のContingency Reserves、Pilot funds、部分的な実施またはスコープ縮小により残った資金、およびInput Output Researchとの重複により不要となった配分について、Cardano Treasuryへ資金を返還する条件が定められています。第2条第7節第3項について、本提案は2026-27年のNet Change Limitを₳350 millionとしていますが、その後、Net Change Limit GA（gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq）が承認され、現在のNet Change Limitは₳500 millionとなっています。いずれの場合においても、本提案の要求額がNet Change Limitの範囲内であることを確認しています。第2条第7節第4項について、本提案はTreasury Withdrawalプロセスに関連して必要となる独立監査を支援するため、「Independent Audit and Oversight」に₳126,239を割り当てています。また、プロジェクトのmetricsおよびKPIs、ならびに財務報告およびマイルストーン報告についても示しています。しかし、これらのmetricsがADAの使用に関する監督指標として同項の要件を満たしているかについては、解釈上の不確実性があります。さらに、第2条第7節第2項は、Treasury Withdrawalの受取予定者に対し、過去24か月以内にCardano TreasuryからADAを受領したかどうかを開示することを求めています。本提案を確認したところ、そのような明示的な開示を確認することができませんでした。第2条第7節第2項は、資金を受領していない場合であっても、Cardano TreasuryからADAを受領したかどうかについて明示的な開示を求めていると解釈します。したがって、本提案が同項の開示要件を満たしていることを確認できません。さらに、第2条第7節第5項は、資金の使用を監視し、成果物の達成を確保する責任を負う1名以上のadministratorを指定することを求めています。本提案には、管理および調整、監査、マイルストーン報告ならびに財務報告に関する規定が含まれていますが、同項が求める責任を負うadministratorの明示的な指定を確認することができませんでした。さらに、Cardano憲法第2条第7節第6項について、Treasury Withdrawalの受取アドレスがSPOへ委任されていないことを確認しています。しかし、本提案ではadministratorが明示的に指定されていないため、administratorによる追加の支払いが行われる前のADAをCardanoコミュニティが監査可能な分離されたアカウントで保有するという要件、および事前に定義された棄権投票オプションへの委任に関する要件への適合を確認することができませんでした。したがって、本提案は違憲であると判断します。
+
+## 先例に関する議論
+なし
+
+## 反対意見に関する議論
+なし
+
+## 結論
+以上の理由により、本提案は違憲であると判断します。
+
+## 内部投票
+- 合憲: 0
+- 違憲: 3
+- 棄権: 1
+- 未投票: 0
+
+## 参考資料
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)

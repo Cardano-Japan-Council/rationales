@@ -1,0 +1,26 @@
+# Governance Action ID  
+`gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht`
+
+## Summary  
+We abstain from a constitutional determination.
+
+## Rationale Statement  
+According to the proposal text, this proposal, titled "Reimburse Ikigai Info Governance Action Deposit.", is a Treasury Withdrawal Governance Action aimed at returning the 100,000 ADA in Governance Action deposits that could not be recovered due to a code bug in the Cardano node, as well as compensating for the 3,000 ADA in lost staking rewards. Article 2, Section 7, Paragraph 4 of the Cardano Constitution requires the allocation of ADA to cover the costs of conducting periodic independent audits and monitoring metrics. This proposal argues that no ADA is necessary for this purpose because direct on-chain transfers to recipients can be audited, but it is not clear from the text of the Constitution whether an allocation of 0 ADA is permissible in such cases. Furthermore, Paragraph 5 requires the designation of an Administrator to monitor the use of funds and ensure the achievement of deliverables. While this proposal designates DReps as the Administrator, there is room for interpretation regarding how DReps would fulfill these responsibilities in the context of a one-time direct transfer. Additionally, the requested amount includes compensation of 3,000 ADA, calculated at an annual rate of 2% to cover lost staking rewards. Unlike the return of the original 100,000 ADA deposit, the current Constitution lacks clear standards regarding the scope or calculation criteria for compensation from the Cardano Treasury for lost staking rewards, and uncertainty remains as to how this compensation should be evaluated under the Constitution. On the other hand, Paragraph 6 applies when the Administrator holds ADA prior to making additional distributions to recipients; since this proposal does not involve the Administrator holding funds, we do not consider this point to be a clear ground for unconstitutionality. For the reasons stated above, as uncertainty remains regarding the interpretation of Paragraphs 4 and 5 and the compensation for the 3,000 ADA in staking rewards, we abstain from a constitutional determination.
+
+## Precedent Discussion  
+None
+
+## Counterargument Discussion  
+None
+
+## Conclusion  
+For the reasons stated above, we abstain from a constitutional determination.
+
+## Internal Vote  
+- Constitutional: 1  
+- Unconstitutional: 0  
+- Abstain: 3  
+- Did Not Vote: 0  
+
+## References  
+[CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION](https://ipfs.io/ipfs/bafkreieyuknozbtewyurfqoagvplvykadn6a4u6wglupavdz46bbsnnl6e)  
