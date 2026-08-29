@@ -90,3 +90,5 @@ This document provides an index of the constitutionality rationales published by
 | ga84 | Treasury Withdrawals | Withdraw 120,000,000 ada for AlphaGrowth's Cardano PRIME | Constitutional | [Link](./ga84/Withdraw-120000000-ada-for-AlphaGrowths-Cardano-PRIME.md) |
 | ga85 | Info Action | Name the Protocol Version 12 hard fork "von Bergen" | Unconstitutional | [Link](./ga85/Name-the-Protocol-Version-12-hard-fork-von-Bergen.md) |
 | ga86 | Parameter Change | Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2) | Constitutional | [Link](./ga86/Reduce-minPoolCost-to-75-ada-and-increase-Plutus-Memory-Limits-Part-2.md) |
+| ga87 | Treasury Withdrawals | Governance Incentives Framework 2026 | Unconstitutional | [Link](./ga87/Governance-Incentives-Framework-2026.md) |
+| ga88 | Treasury Withdrawals | Reimburse Ikigai Info Governance Action Deposit | Abstain | [Link](./ga88/Reimburse-Ikigai-Info-Governance-Action-Deposit.md) |
